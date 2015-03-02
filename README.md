@@ -1,4 +1,4 @@
 # university-project-tee
 :mortar_board:
 
-![Rv](https://raw.githubusercontent.com/rzZzv/university-project-tee/master/tee.png)
+![Rv](https://raw.githubusercontent.com/rzZzv/university-project-tee/master/TEE.png)
